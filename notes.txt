@@ -1,0 +1,9 @@
+Desafio Entendendo um Ransomware na Prática com Python
+
+Passos a passo:
+Criei o arquivo teste.txt (touch teste.txt);
+Criei o arquivo encrypter (touch encrypter.py) usando mesma chave da aula
+Criei o arquivo decrypter (touch decrypter.py) usando mesma chave da aula
+Em seguida fiz os procedimentos de criptografar (python encripter.py) e depois decriptografar (python decripter.py) conforme os código apresentado.
+
+Arquivo foi encrypter e decrypter com sucesso!
